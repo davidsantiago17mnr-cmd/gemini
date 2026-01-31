@@ -1,0 +1,8 @@
+{
+  "name": "Vela AI ",
+  "description": "A monitoring application for elderly care that requires photo proof (AI-verified) to silence alarms for medication, hydration, and nutrition.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
